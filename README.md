@@ -1,4 +1,5 @@
-###  Olá,  eu sou o João !
+
+ ###  Olá,  eu sou o João !
 #### Sou desenvolvendor <span style="color: white; background-color: green; border-radius: 5px;" > full-stack</span> com ênfase no <span style="color: white; background-color: green; border-radius: 5px;" >front-end</span>. Atualmente estou focando em Java; 
 ### Academia
 
@@ -22,6 +23,12 @@
 
 <img alt="SQL" height="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
+
+<img alt="BOOTSTRAP" height="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+ <img style="background-color: #3e86ea; border-radius: 100%;" alt="SWIPER" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" />
+          
+                    
 
 </div>
 
