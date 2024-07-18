@@ -3,8 +3,9 @@
 #### Sou desenvolvendor <span style="color: white; background-color: green; border-radius: 5px;" > full-stack</span> com ênfase no <span style="color: white; background-color: green; border-radius: 5px;" >front-end</span>. Atualmente estou focando em Java; 
 ### Estudos
 
- QA - Maratá-Lagarto 
- Instituto Federal de Segipe -> BSI;
+ #QA - Maratá-Lagarto 
+ -
+ #Instituto Federal de Segipe -> BSI;
 
 ---
 <div style="display: flex; gap: 1em;">
