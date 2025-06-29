@@ -1,6 +1,5 @@
 
  ##  Olá,  eu sou o João !
-#### Sou desenvolvendor <span style="color: white; background-color: green; border-radius: 5px;" > front-end</span>. Atualmente estou focando em Java; 
 ### Estudos
 
  #QA - Maratá-Lagarto 
