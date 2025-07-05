@@ -38,9 +38,16 @@
 
 <div  style="display: flex; align-items: center;" >
 
-<img  alt="PHP" height="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<!-- React -->
+<img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<!-- Tailwind CSS -->
+<img alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+
+<!-- Laravel -->
+<img alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+
           
-<img alt="JAVA" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 </div>
           
