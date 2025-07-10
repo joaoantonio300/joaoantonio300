@@ -62,8 +62,6 @@
  
  <img alt="FIGMA" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
  
-<img  alt="AI" height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-
 <img alt="CSS3" height="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
  </div>
