@@ -2,9 +2,9 @@
  ##  Olá,  eu sou o João !
 ### Estudos
 
- #QA - Maratá-Lagarto 
- -
- #Instituto Federal de Segipe -> BSI;
+ #QA - Maratá-Lagarto ( 1 ANO ) 
+
+ #Instituto Federal de Segipe -> BSI(4º período);
 
 ---
 <div style="display: flex; gap: 1em;">
