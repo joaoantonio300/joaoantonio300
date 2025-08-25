@@ -31,25 +31,25 @@
           
                     
 
-</div>
-
 ## Aprendendo
 
+<div style="display: flex; align-items: center; gap: 10px;" >
 
-<div  style="display: flex; align-items: center;" >
+  <!-- React -->
+  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<!-- React -->
-<img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <!-- Angular -->
+  <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-<!-- Tailwind CSS -->
-<img alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <!-- Tailwind CSS -->
+  <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-<!-- Laravel -->
-<img alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-
-          
+  <!-- Spring Boot -->
+  <img alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 </div>
+
+
           
 
  ## Ferramentas mais usadas
