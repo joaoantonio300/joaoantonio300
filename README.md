@@ -2,7 +2,7 @@
 
 ### 🎓 Estudos
 - QA - Maratá-Lagarto (1 ANO)  
-- Instituto Federal de Sergipe → BSI (4º período)
+- Instituto Federal de Sergipe → BSI (5º período)
 
 ---
 
@@ -46,11 +46,13 @@
   <img alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>  
 
-## 🖥️ Sistemas
-<div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: center;">   
-  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-</div>
+## 🌐 Idiomas
+  ![Português](https://img.shields.io/badge/Português-Nativo-4CAF50?style=for-the-badge)
+  ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-2196F3?style=for-the-badge)
+  ![Espanhol](https://img.shields.io/badge/Espanhol-Básico-FFC107?style=for-the-badge)
+
+
+##
 
 ---
 
