@@ -1,7 +1,7 @@
 # 👋 Hi, I am João!
 
 ### 🎓 Education
-- QA - Maratá-Lagarto (1 YEAR)  
+- QA JUNIOR - Maratá-Lagarto (1 YEAR)  
 - Federal Institute of Sergipe → BSI (5th semester)
 
 ---
