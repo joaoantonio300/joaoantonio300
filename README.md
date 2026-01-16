@@ -1,7 +1,8 @@
 # 👋 Hi, I am João!
 
 ### 🎓 Education
-- QA JUNIOR - Maratá-Lagarto (1 YEAR)  
+- WEB DEVELOPER JUNIOR = Maratá-Lagarto (now)
+- QA PLENO - Maratá-Lagarto (1 YEAR)  
 - Federal Institute of Sergipe → BSI (5th semester)
 
 ---
