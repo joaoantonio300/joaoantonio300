@@ -2,7 +2,7 @@
 
 ### 🎓 Education
 - WEB DEVELOPER JUNIOR = Maratá-Lagarto (now)
-- QA PLENO - Maratá-Lagarto (1 YEAR)  
+- I USED TO BE QA - Maratá-Lagarto (1 YEAR, 3 MONTHS ago)  
 - Federal Institute of Sergipe → BSI (6th semester)
 
 ---
