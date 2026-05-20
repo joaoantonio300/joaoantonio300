@@ -9,8 +9,9 @@
 
 <div style="display: flex; gap: 1em; flex-wrap: wrap;">
 
-![joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoantonio300&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoantonio300&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Laravel+Developer;PHP+Backend;Linux+Enjoyer&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaoantonio300&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=joaoantonio300&color=blueviolet)
 
 </div>
 
