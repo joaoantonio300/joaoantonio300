@@ -1,17 +1,16 @@
 # 👋 Hi, I am João!
 
 ### 🎓 Education
-- WEB DEVELOPER JUNIOR = Maratá-Lagarto (now)
-- I USED TO BE QA - Maratá-Lagarto (1 YEAR, 3 MONTHS ago)  
+- Junior Backend Developer @ Maratá
+- Former QA Analyst @ Maratá (1 year 3 months)
 - Federal Institute of Sergipe → BSI (6th semester)
 
 ---
 
 <div style="display: flex; gap: 1em; flex-wrap: wrap;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Laravel+Developer;PHP+Backend;Linux+Enjoyer&center=true&width=500&height=50)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaoantonio300&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=joaoantonio300&color=blueviolet)
+![GitHub Streak](https://streak-stats.demolab.com?user=joaoantonio300&theme=dracula)
+
 
 </div>
 
@@ -59,3 +58,7 @@
 ### 📫 Find Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonharts_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-antonio-santos-alves-790859265/)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=joaoantonio300&color=blueviolet)
